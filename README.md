@@ -1,4 +1,4 @@
 # text-editor
-Basic Python Text Editor using tkinter
+Basic python text editor using tkinter
 
 
